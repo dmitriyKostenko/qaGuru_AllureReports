@@ -20,7 +20,7 @@ jobs:
         with:
           ref: gh-pages
           path: gh-pages
-      - uses: ./allure-report-action
+      - uses: simple-elf/allure-report-action@master
         if: always()
         with:
           gh_pages: gh-pages
