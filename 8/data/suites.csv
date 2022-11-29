@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Nov 29 20:02:15 GMT 2022","Tue Nov 29 20:02:21 GMT 2022","6446","","tests.guru.qa.AnnotatedStepsTest","","tests.guru.qa.AnnotatedStepsTest","tesAnnotatedStep","tesAnnotatedStep()",""
+"passed","Tue Nov 29 20:02:21 GMT 2022","Tue Nov 29 20:02:24 GMT 2022","2279","","tests.guru.qa.LambdaStepsTest","","tests.guru.qa.LambdaStepsTest","testLambdaStep","testLambdaStep()",""
+"passed","Tue Nov 29 20:02:24 GMT 2022","Tue Nov 29 20:02:26 GMT 2022","2632","","tests.guru.qa.SelenideListenerTest","","tests.guru.qa.SelenideListenerTest","checkIssueName","checkIssueName()",""
