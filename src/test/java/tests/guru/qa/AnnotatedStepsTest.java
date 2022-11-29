@@ -10,7 +10,6 @@ public class AnnotatedStepsTest {
     private static final int ISSUE = 81;
     private static final String TITLE = "issue_to_test_allure_report";
 
-
     @Test
     public void tesAnnotatedStep() {
         SelenideLogger.addListener("allure", new AllureSelenide());
